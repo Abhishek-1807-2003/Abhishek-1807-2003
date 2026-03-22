@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Kumar  
 
-<!--
-**Abhishek-1807-2003/Abhishek-1807-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MCA Student | AI & Computer Vision Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+- 💡 Passionate about building AI-based real-time systems  
+- 🔥 Skilled in Python, OpenCV, YOLO, Machine Learning  
+- 📊 Exploring Computer Vision & Data Science  
+- 🎯 Goal: Become a Software Developer / AI Engineer  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+- Python 🐍  
+- C++  
+- Java  
+
+### 👁️ Computer Vision & AI  
+- OpenCV  
+- YOLOv8  
+- MediaPipe  
+
+### 📊 Libraries  
+- NumPy  
+- Pandas  
+- Matplotlib  
+
+---
+
+## 🚀 Projects  
+
+### 🛡️ MotoShield X – Smart Rider Safety System  
+- AI-based real-time safety system  
+- Helmet detection (YOLOv8)  
+- Drowsiness detection (Eye Aspect Ratio)  
+- Emotion detection  
+- Voice alert system  
+
+---
+
+### 📊 Student Performance Prediction  
+- Machine Learning model  
+- Predicts student scores  
+
+---
+
+## 📈 GitHub Stats  
+
+GitHub Stats
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: abhishekmishra53713@gmail.com  
+
+---
+
+## ⚡ Fun Fact  
+💥 I love turning ideas into real-world AI projects  
+
+---
+
+⭐ **If you like my work, don’t forget to star my repositories!
